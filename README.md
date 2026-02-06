@@ -8,9 +8,9 @@
 
 <div style="font-size:14px;">
   
-  👋 Hi there! I'm a **full-stack developer** skilled in ***Java***, ***JavaScript*** and ***AWS***!<br>
+  👋  Hi there! I'm a **full-stack developer** with experience across backend, frontend, and mobile development!<br>
   I started studying development relatively later in my life, and I am highly interested in it and truly enjoy it.✨<br>
-  I also really love music🎶, and I hope to create beautiful things that blend technology and art!🌈<br>
+  I also love music🎶, and I hope to create beautiful things that blend technology and art!🌈<br>
   　
 </div>
 
@@ -26,7 +26,7 @@
   
   <!-- backend -->
   <p>
-    <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/MyBatis-891B26?style=flat-square&logo=thunderbird&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"> -->
@@ -39,14 +39,14 @@
 <!--     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> -->
   </p>
 
-  <!-- frontend -->
   <p>
+    <!-- frontend -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+    <br>
+     <!-- mobile -->
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/React Native-20242a?style=flat-square&logo=react&logoColor=white">
-    <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> -->
-    <!-- <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"> -->
-<!--     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"> -->
   </p>
 
    <!-- devops -->
